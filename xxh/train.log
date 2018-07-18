@@ -1,0 +1,65 @@
+INFO:root:Traing starts.
+INFO:root:Epoch 0. Iter 1. Train_loss 5.396 Train_acc 0.000
+INFO:root:Traing starts.
+INFO:root:Traing starts.
+INFO:root:Traing starts.
+INFO:root:Traing starts.
+INFO:root:Traing starts.
+INFO:root:Epoch 0. Iter 1. Train_loss 0.763 Train_acc 0.000
+INFO:root:Epoch 0. Iter 2. Train_loss 0.753 Train_acc 0.000
+INFO:root:Traing starts.
+INFO:root:Epoch 0. Iter 1. Train_loss 0.759 Train_acc 0.000
+INFO:root:Epoch 0. Iter 2. Train_loss 0.752 Train_acc 0.000
+INFO:root:Epoch 0. Iter 3. Train_loss 0.738 Train_acc 0.000
+INFO:root:Epoch 0. Iter 4. Train_loss 0.720 Train_acc 0.250
+INFO:root:Epoch 0. Iter 5. Train_loss 0.699 Train_acc 0.400
+INFO:root:Epoch 0. Iter 6. Train_loss 0.676 Train_acc 0.500
+INFO:root:Epoch 0. Iter 7. Train_loss 0.652 Train_acc 0.571
+INFO:root:Epoch 0. Iter 8. Train_loss 0.630 Train_acc 0.625
+INFO:root:Epoch 0. Iter 9. Train_loss 0.608 Train_acc 0.667
+INFO:root:Epoch 0. Iter 10. Train_loss 0.658 Train_acc 0.600
+INFO:root:Epoch 0. Iter 11. Train_loss 0.634 Train_acc 0.636
+INFO:root:Epoch 0. Iter 12. Train_loss 0.612 Train_acc 0.667
+INFO:root:Epoch 0. Iter 13. Train_loss 0.593 Train_acc 0.692
+INFO:root:Epoch 0. Iter 14. Train_loss 0.575 Train_acc 0.714
+INFO:root:Epoch 0. Iter 15. Train_loss 0.560 Train_acc 0.733
+INFO:root:Epoch 0. Iter 16. Train_loss 0.546 Train_acc 0.750
+INFO:root:Epoch 0. Iter 17. Train_loss 0.534 Train_acc 0.765
+INFO:root:Epoch 0. Iter 18. Train_loss 0.523 Train_acc 0.778
+INFO:root:Epoch 0. Iter 19. Train_loss 0.513 Train_acc 0.789
+INFO:root:Epoch 0. Iter 20. Train_loss 0.551 Train_acc 0.750
+INFO:root:Epoch 0. Iter 21. Train_loss 0.540 Train_acc 0.762
+INFO:root:Epoch 0. Iter 22. Train_loss 0.530 Train_acc 0.773
+INFO:root:Epoch 0. Iter 23. Train_loss 0.563 Train_acc 0.739
+INFO:root:Epoch 0. Iter 24. Train_loss 0.553 Train_acc 0.750
+INFO:root:Epoch 0. Iter 25. Train_loss 0.544 Train_acc 0.760
+INFO:root:Epoch 0. Iter 26. Train_loss 0.535 Train_acc 0.769
+INFO:root:Epoch 0. Iter 27. Train_loss 0.563 Train_acc 0.741
+INFO:root:Epoch 0. Iter 28. Train_loss 0.555 Train_acc 0.750
+INFO:root:Epoch 0. Iter 29. Train_loss 0.547 Train_acc 0.759
+INFO:root:Epoch 0. Iter 30. Train_loss 0.539 Train_acc 0.767
+INFO:root:Epoch 0. Iter 31. Train_loss 0.532 Train_acc 0.774
+INFO:root:Epoch 0. Iter 32. Train_loss 0.556 Train_acc 0.750
+INFO:root:Epoch 0. Iter 33. Train_loss 0.578 Train_acc 0.727
+INFO:root:Epoch 0. Iter 34. Train_loss 0.571 Train_acc 0.735
+INFO:root:Epoch 0. Iter 35. Train_loss 0.564 Train_acc 0.743
+INFO:root:Epoch 0. Iter 36. Train_loss 0.557 Train_acc 0.750
+INFO:root:Epoch 0. Iter 37. Train_loss 0.550 Train_acc 0.757
+INFO:root:Epoch 0. Iter 38. Train_loss 0.544 Train_acc 0.763
+INFO:root:Epoch 0. Iter 39. Train_loss 0.538 Train_acc 0.769
+INFO:root:Epoch 0. Iter 40. Train_loss 0.533 Train_acc 0.775
+INFO:root:Epoch 0. Iter 41. Train_loss 0.552 Train_acc 0.756
+INFO:root:Epoch 0. Iter 42. Train_loss 0.546 Train_acc 0.762
+INFO:root:Epoch 0. Iter 43. Train_loss 0.541 Train_acc 0.767
+INFO:root:Epoch 0. Iter 44. Train_loss 0.558 Train_acc 0.750
+INFO:root:Epoch 0. Iter 45. Train_loss 0.553 Train_acc 0.756
+INFO:root:Epoch 0. Iter 46. Train_loss 0.548 Train_acc 0.761
+INFO:root:Epoch 0. Iter 47. Train_loss 0.564 Train_acc 0.745
+INFO:root:Epoch 0. Iter 48. Train_loss 0.579 Train_acc 0.729
+INFO:root:Epoch 0. Iter 49. Train_loss 0.594 Train_acc 0.714
+INFO:root:Epoch 0. Iter 50. Train_loss 0.588 Train_acc 0.720
+INFO:root:Epoch 0. Iter 51. Train_loss 0.583 Train_acc 0.725
+INFO:root:Epoch 0. Iter 52. Train_loss 0.578 Train_acc 0.731
+INFO:root:Epoch 0. Iter 53. Train_loss 0.573 Train_acc 0.736
+INFO:root:Epoch 0. Iter 54. Train_loss 0.586 Train_acc 0.722
+INFO:root:Epoch 0. Iter 55. Train_loss 0.582 Train_acc 0.727
